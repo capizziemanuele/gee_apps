@@ -6,7 +6,7 @@ A simple tool designed to facilitate the visualization of median NDVI (Normalize
 Code available at: [GEE](https://code.earthengine.google.com/?scriptPath=users%2Fcapizziemanuele%2Fprova%3Andvi_time_series).
 
 2) [Sentinel-5P Explorer](https://capizziemanuele.users.earthengine.app/view/sentinel5pexplorer) <br>
-A simple tool that allows you to visualize monthly averages of atmospheric pollutant concentrations measured by the Sentinel-5P satellite. Our app provides access to data starting from July 2018.
+A simple tool that allows you to visualize monthly averages of atmospheric pollutant concentrations measured by the Sentinel-5P satellite. This app provides access to data starting from July 2018.
 Code available at: [GEE](https://code.earthengine.google.com/?scriptPath=users%2Fcapizziemanuele%2Fprova%3Aapp_s5p).
 
 ---
